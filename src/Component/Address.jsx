@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import axios from 'axios'
 import Geocode from "react-geocode";
 import '../App.css';
-import Utiles from '../Utiles/AddressFunctions';
+import {Utiles} from '../Utiles/AddressFunctions';
 
 Geocode.setApiKey("AIzaSyCZEAaPR-yVMJZ9iAU-FPm67zLO3Ei_iNg");
 Geocode.enableDebug();

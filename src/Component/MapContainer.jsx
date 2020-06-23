@@ -4,7 +4,7 @@ import SaveNewAddress from './SaveNewAddress'
 import Autocomplete from 'react-google-autocomplete';
 import Geocode from "react-geocode";
 import '../App.css';
-import Utiles from '../Utiles/AddressFunctions';
+import {Utiles}from '../Utiles/AddressFunctions';
 
 class MapContainer extends Component{
 	   

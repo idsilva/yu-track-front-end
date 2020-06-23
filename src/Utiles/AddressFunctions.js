@@ -1,6 +1,6 @@
 
 
-class AddressFunctions
+export class Utiles
 {
 	/**
 	  * Get the city and set the city input value to the one selected
@@ -54,5 +54,3 @@ class AddressFunctions
 	  }
 	 };
 }
-
-module.exports = AddressFunctions
