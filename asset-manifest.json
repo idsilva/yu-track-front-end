@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yu-track-front-end/static/css/main.bc5ca949.chunk.css",
+    "main.js": "/yu-track-front-end/static/js/main.1ccb8914.chunk.js",
+    "main.js.map": "/yu-track-front-end/static/js/main.1ccb8914.chunk.js.map",
+    "runtime-main.js": "/yu-track-front-end/static/js/runtime-main.0cd50dc4.js",
+    "runtime-main.js.map": "/yu-track-front-end/static/js/runtime-main.0cd50dc4.js.map",
+    "static/js/2.c7aa2c1c.chunk.js": "/yu-track-front-end/static/js/2.c7aa2c1c.chunk.js",
+    "static/js/2.c7aa2c1c.chunk.js.map": "/yu-track-front-end/static/js/2.c7aa2c1c.chunk.js.map",
+    "index.html": "/yu-track-front-end/index.html",
+    "precache-manifest.abb5382ef66fbc6a7473cf544f9cbe0a.js": "/yu-track-front-end/precache-manifest.abb5382ef66fbc6a7473cf544f9cbe0a.js",
+    "service-worker.js": "/yu-track-front-end/service-worker.js",
+    "static/css/main.bc5ca949.chunk.css.map": "/yu-track-front-end/static/css/main.bc5ca949.chunk.css.map",
+    "static/js/2.c7aa2c1c.chunk.js.LICENSE.txt": "/yu-track-front-end/static/js/2.c7aa2c1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd50dc4.js",
+    "static/js/2.c7aa2c1c.chunk.js",
+    "static/css/main.bc5ca949.chunk.css",
+    "static/js/main.1ccb8914.chunk.js"
+  ]
+}
